@@ -1,0 +1,16 @@
+D:\Capstone Mega project Diploma\Sale Inventry management system\Project code\Sales Inventory Management System\obj\Debug\Sales Inventory Management System.vbproj.AssemblyReference.cache
+D:\Capstone Mega project Diploma\Sale Inventry management system\Project code\Sales Inventory Management System\obj\Debug\Sales_Inventory_Management_System.Resources.resources
+D:\Capstone Mega project Diploma\Sale Inventry management system\Project code\Sales Inventory Management System\obj\Debug\Sales_Inventory_Management_System.LoginForm.resources
+D:\Capstone Mega project Diploma\Sale Inventry management system\Project code\Sales Inventory Management System\obj\Debug\Sales Inventory Management System.vbproj.GenerateResource.cache
+D:\Capstone Mega project Diploma\Sale Inventry management system\Project code\Sales Inventory Management System\obj\Debug\Sales Inventory Management System.vbproj.CoreCompileInputs.cache
+D:\Capstone Mega project Diploma\Sale Inventry management system\Project code\Sales Inventory Management System\bin\Debug\Sales Inventory Management System.exe
+D:\Capstone Mega project Diploma\Sale Inventry management system\Project code\Sales Inventory Management System\bin\Debug\Sales Inventory Management System.pdb
+D:\Capstone Mega project Diploma\Sale Inventry management system\Project code\Sales Inventory Management System\bin\Debug\Sales Inventory Management System.xml
+D:\Capstone Mega project Diploma\Sale Inventry management system\Project code\Sales Inventory Management System\obj\Debug\Sales Inventory Management System.exe
+D:\Capstone Mega project Diploma\Sale Inventry management system\Project code\Sales Inventory Management System\obj\Debug\Sales Inventory Management System.xml
+D:\Capstone Mega project Diploma\Sale Inventry management system\Project code\Sales Inventory Management System\obj\Debug\Sales Inventory Management System.pdb
+D:\Capstone Mega project Diploma\Sale Inventry management system\Project code\Sales Inventory Management System\obj\Debug\Sales_Inventory_Management_System.Splash.resources
+D:\Capstone Mega project Diploma\Sale Inventry management system\Project code\Sales Inventory Management System\obj\Debug\Sales_Inventory_Management_System.DashboardForm.resources
+D:\Capstone Mega project Diploma\Sale Inventry management system\Project code\Sales Inventory Management System\obj\Debug\Sales_Inventory_Management_System.AddStock.resources
+D:\Capstone Mega project Diploma\Sale Inventry management system\Project code\Sales Inventory Management System\obj\Debug\Sales_Inventory_Management_System.Registration.resources
+D:\Capstone Mega project Diploma\Sale Inventry management system\Project code\Sales Inventory Management System\obj\Debug\Sales_Inventory_Management_System.SellItem.resources
